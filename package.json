@@ -1,0 +1,22 @@
+{
+  "name": "duckula-npm-test",
+  "version": "0.0.1",
+  "description": "npm pkg test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dakular/test-npm-pkg.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "duckula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dakular/test-npm-pkg/issues"
+  },
+  "homepage": "https://github.com/dakular/test-npm-pkg#readme"
+}
